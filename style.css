@@ -1,0 +1,49 @@
+.header{
+    background-color: blue;
+}
+
+.flex-container{
+    background-color: black;
+    display: flex;
+	align-items: stretch;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+
+.flex-item{
+    background-color: white;
+	flex:auto;
+	border-style: solid;
+	border-width: 2px;
+	width: auto;
+	border-color: red;
+}
+
+.flex-item2{
+    background-color: green;
+	flex:auto;
+	border-style: solid;
+	border-width: 2px;
+	width: auto;
+	border-color: blue;
+}
+
+.flex-item3{
+    background-color: green;
+	flex:auto;
+	border-style: solid;
+	border-width: 2px;
+	width: auto;
+	border-color: yellow;
+}
+
+.footer{
+    background-color: blue;
+}
+
+.footer-item{
+    background-color: yellow;
+}
+.footer-item2{
+    background-color: violet;
+}
